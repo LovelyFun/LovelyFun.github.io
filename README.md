@@ -1,2 +1,5 @@
-# LovelyFun.github.io
-열정적인 분석가의 깃헙 블로그
+# Memoirs Jekyll Theme
+
+[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+
+![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
