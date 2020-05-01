@@ -1,5 +1,5 @@
 # Site
-name: "열정"
+name: "열정적인 개발자"
 title: "열정"
 description: "비블리스토어 신입 개발자의 일기"
 logo: 'assets/images/logo.png'
@@ -7,21 +7,21 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 url: "LovelyFun.github.io"
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'Developer Blog'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: w0w6w3@gmail.com
 
 # Authors
 authors:
-  sal:
+  Passion:
     name: Runner
     display_name: Runner
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: w0w6w3@gmail.com
     web: http://bibly.kr/
-    twitter: https://twitter.com/
+    twitter: https://ko-kr.facebook.com/biblypaper/
     description: "오늘도 한 걸음만 더"
  
 # Plugins
